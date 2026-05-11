@@ -44,5 +44,12 @@ The project has been developed in the following stages:
 
 - EDA: `notebooks/01_eda_dynamic_pricing.ipynb`
 
+  ## 📁 Data folder
+
+This folder is intentionally empty because the dataset used in this project is private and cannot be shared due to data privacy restrictions.
+
+The project was developed using real-world data from the short-term rental market.
+
+
 ## ⚠️ License
 This project is for visualization purposes only. No permission is granted for reuse or redistribution of the code.
