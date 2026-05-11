@@ -1,4 +1,4 @@
-# DyPriZa - Dynamic Pricing Machine Learning Project
+# DyPriZa - Dynamic Pricing System: Machine Learning & Tableu
 
 ## 📌 Project Description
 DyPriZa is a dynamic pricing project applied to the short-term rental market. The objective is to estimate optimal prices using machine learning techniques based on demand, seasonality, and market behavior. The project combines data analysis, predictive modeling, and Tableau dashboards to support data-driven decision making.
