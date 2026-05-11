@@ -40,7 +40,7 @@ El proyecto se ha desarrollado en las siguientes etapas:
 - `data/` → Datos del proyecto
 - `dashboards/` → Visualizaciones en Tableau
 
-  ## 📁 Carpeta de datos
+## 📁 Carpeta de datos
 
 Esta carpeta está intencionadamente vacía porque el dataset utilizado en este proyecto es privado y no puede ser compartido por motivos de confidencialidad.
 
@@ -50,6 +50,10 @@ El proyecto se ha desarrollado utilizando datos reales del sector de alojamiento
 ## 📓 Notebooks
 
 - EDA: `notebooks/01_eda_dynamic_pricing.ipynb`
+
+## 🗂️ Gestión del Proyecto y Seguimiento del Flujo de Trabajo
+
+La gestión del proyecto se organizó utilizando Trello para realizar el seguimiento de las fases, tareas e hitos a lo largo de todo el proceso de desarrollo.
 
 ## ⚠️ Licencia
 Este proyecto es únicamente para fines de visualización. No se permite la reutilización ni distribución del código.
