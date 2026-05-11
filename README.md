@@ -1,42 +1,48 @@
-# DyPriZa - Dynamic Pricing ML Project
+# DyPriZa - Proyecto de Dynamic Pricing con Machine Learning & Tableu
 
----
+## 📌 Descripción del proyecto
+DyPriZa es un proyecto de dynamic pricing aplicado al sector de alojamientos turísticos. El objetivo es estimar precios óptimos mediante técnicas de machine learning, teniendo en cuenta factores como la demanda, la estacionalidad y el comportamiento del mercado. El proyecto combina análisis de datos, modelado predictivo y visualización en Tableau para apoyar la toma de decisiones basada en datos.
 
-## 🇪🇸 Español
+## 🎯 Objetivo
+Desarrollar un modelo predictivo que permita optimizar estrategias de precios y mejorar la toma de decisiones en revenue management.
 
-### 📌 Descripción del proyecto
-DyPriZa es un proyecto de dynamic pricing aplicado al sector de alojamientos turísticos. El objetivo es estimar precios óptimos mediante técnicas de machine learning basadas en la demanda, la estacionalidad y el comportamiento del mercado.
-
-### 🎯 Objetivo
-Desarrollar un modelo predictivo que ayude a optimizar estrategias de precios y mejorar la toma de decisiones en revenue management.
-
-### 🧠 Metodología
+## 🧠 Metodología
 - Análisis exploratorio de datos (EDA)
-- Limpieza y preparación de datos
+- Limpieza y preprocesamiento de datos
 - Ingeniería de variables
 - Modelos de machine learning para predicción de precios
-- Dashboards en Tableau para visualización
+- Evaluación del modelo e interpretación de resultados
+- Visualización de resultados en Tableau
 
----
+## 📊 Fases del proyecto
 
-## 🇬🇧 English
+El proyecto se ha desarrollado en las siguientes etapas:
 
-### 📌 Project Description
-DyPriZa is a dynamic pricing project applied to the short-term rental market. The goal is to estimate optimal prices using machine learning based on demand, seasonality, and market behavior.
+- **01 EDA (Análisis exploratorio de datos)**  
+  Exploración de los datos para entender su distribución, variables clave y patrones de comportamiento.
 
-### 🎯 Objective
-To build a predictive model that helps optimize pricing strategies and improve revenue management decisions.
+- **02 Limpieza y preprocesamiento**  
+  Tratamiento de valores nulos, limpieza de datos y preparación del dataset para el modelado.
 
-### 🧠 Methodology
-- Exploratory Data Analysis (EDA)
-- Data cleaning and preprocessing
-- Feature engineering
-- Machine learning models for price prediction
-- Tableau dashboards for visualization
+- **03 Ingeniería de variables**  
+  Creación de nuevas variables relevantes para mejorar el rendimiento del modelo.
 
----
+- **04 Modelado de Machine Learning**  
+  Entrenamiento de modelos para la predicción de precios óptimos.
 
-## ⚠️ License
-This project is for visualization purposes only. No permission is granted for reuse or redistribution of the code.
+- **05 Evaluación e insights**  
+  Evaluación del rendimiento del modelo y extracción de conclusiones de negocio.
 
-👉 README bilingüe español-inglés
+## 📁 Estructura del proyecto
+
+- `notebooks/` → Análisis exploratorio y experimentación
+- `src/` → Código fuente (modelos y procesamiento)
+- `data/` → Datos del proyecto
+- `dashboards/` → Visualizaciones en Tableau
+
+## 📓 Notebooks
+
+- EDA: `notebooks/01_eda_dynamic_pricing.ipynb`
+
+## ⚠️ Licencia
+Este proyecto es únicamente para fines de visualización. No se permite la reutilización ni distribución del código.
