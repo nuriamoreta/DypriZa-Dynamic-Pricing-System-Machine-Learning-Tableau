@@ -44,6 +44,10 @@ The project has been developed in the following stages:
 
 - EDA: `notebooks/01_eda_dynamic_pricing.ipynb`
 
+## 🗂️ Project Management & Workflow Tracking
+
+Project management was organized using Trello to track phases, tasks, and milestones throughout the development process.
+
   ## 📁 Data folder
 
 This folder is intentionally empty because the dataset used in this project is private and cannot be shared due to data privacy restrictions.
