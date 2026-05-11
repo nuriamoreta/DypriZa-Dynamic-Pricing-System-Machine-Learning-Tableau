@@ -40,6 +40,13 @@ El proyecto se ha desarrollado en las siguientes etapas:
 - `data/` → Datos del proyecto
 - `dashboards/` → Visualizaciones en Tableau
 
+  ## 📁 Carpeta de datos
+
+Esta carpeta está intencionadamente vacía porque el dataset utilizado en este proyecto es privado y no puede ser compartido por motivos de confidencialidad.
+
+El proyecto se ha desarrollado utilizando datos reales del sector de alojamientos turísticos.
+
+
 ## 📓 Notebooks
 
 - EDA: `notebooks/01_eda_dynamic_pricing.ipynb`
