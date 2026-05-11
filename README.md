@@ -1,4 +1,4 @@
-# DyPriZa - Proyecto de Dynamic Pricing con Machine Learning & Tableu
+# DyPriZa - Proyecto de Dynamic Pricing:Machine Learning & Tableu
 
 ## 📌 Descripción del proyecto
 DyPriZa es un proyecto de dynamic pricing aplicado al sector de alojamientos turísticos. El objetivo es estimar precios óptimos mediante técnicas de machine learning, teniendo en cuenta factores como la demanda, la estacionalidad y el comportamiento del mercado. El proyecto combina análisis de datos, modelado predictivo y visualización en Tableau para apoyar la toma de decisiones basada en datos.
