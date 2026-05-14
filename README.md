@@ -79,7 +79,7 @@ Junio y septiembre reflejaron mayor estabilidad predictiva
 
 El proyecto incluye dashboards desarrollados en Tableau para el análisis ejecutivo y seguimiento del rendimiento del modelo.
 
-#Visualizaciones implementadas
+Visualizaciones implementadas
 - KPIs generales
 - Real vs Predicho
 - Dispersión Real vs Predicho
@@ -88,7 +88,7 @@ El proyecto incluye dashboards desarrollados en Tableau para el análisis ejecut
 - Comparativas entre modelos
 - Análisis segmentado por ciudad y temporada
 
-#Capturas del dashboard
+**Capturas del dashboard**
 KPIs generales y predicción
 <img width="1351" height="756" alt="image" src="https://github.com/user-attachments/assets/006bdc07-9968-47e7-a837-98a4aebd934e" />
 
