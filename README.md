@@ -1,59 +1,98 @@
-# DyPriZa - Proyecto de Dynamic Pricing:Machine Learning & Tableu
+🇪🇸 DyPriZa | Dynamic Pricing Intelligence for Hospitality
+##📌 Resumen ejecutivo
 
-## 📌 Descripción del proyecto
-DyPriZa es un proyecto de dynamic pricing aplicado al sector de alojamientos turísticos. El objetivo es estimar precios óptimos mediante técnicas de machine learning, teniendo en cuenta factores como la demanda, la estacionalidad y el comportamiento del mercado. El proyecto combina análisis de datos, modelado predictivo y visualización en Tableau para apoyar la toma de decisiones basada en datos.
+DyPriZa es un proyecto de Dynamic Pricing aplicado al sector de alojamientos turísticos, orientado a optimizar estrategias de pricing mediante análisis de datos, machine learning y visualización ejecutiva.
 
-## 🎯 Objetivo
-Desarrollar un modelo predictivo que permita optimizar estrategias de precios y mejorar la toma de decisiones en revenue management.
+El proyecto nace como un MVP (Minimum Viable Product) enfocado en demostrar cómo un sistema basado en datos puede ayudar a maximizar ingresos (ADR y RevPAR), mejorar la ocupación y facilitar la toma de decisiones en Revenue Management.
 
-## 🧠 Metodología
-- Análisis exploratorio de datos (EDA)
-- Limpieza y preprocesamiento de datos
-- Ingeniería de variables
-- Modelos de machine learning para predicción de precios
-- Evaluación del modelo e interpretación de resultados
-- Visualización de resultados en Tableau
-
-## 📊 Fases del proyecto
-
-El proyecto se ha desarrollado en las siguientes etapas:
-
-- **01 EDA (Análisis exploratorio de datos)**  
-  Exploración de los datos para entender su distribución, variables clave y patrones de comportamiento.
-
-- **02 Limpieza y preprocesamiento**  
-  Tratamiento de valores nulos, limpieza de datos y preparación del dataset para el modelado.
-
-- **03 Ingeniería de variables**  
-  Creación de nuevas variables relevantes para mejorar el rendimiento del modelo.
-
-- **04 Modelado de Machine Learning**  
-  Entrenamiento de modelos para la predicción de precios óptimos.
-
-- **05 Evaluación e insights**  
-  Evaluación del rendimiento del modelo y extracción de conclusiones de negocio.
-
-## 📁 Estructura del proyecto
-
-- `notebooks/` → Análisis exploratorio y experimentación
-- `src/` → Código fuente (modelos y procesamiento)
-- `data/` → Datos del proyecto
-- `dashboards/` → Visualizaciones en Tableau
-
-## 📁 Carpeta de datos
-
-Esta carpeta está intencionadamente vacía porque el dataset utilizado en este proyecto es privado y no puede ser compartido por motivos de confidencialidad.
-
-El proyecto se ha desarrollado utilizando datos reales del sector de alojamientos turísticos.
+La solución integra análisis exploratorio, modelado predictivo y dashboards ejecutivos en Tableau para transformar datos de mercado en insights accionables.
 
 
-## 📓 Notebooks
+##🧩 Business Problem
 
-- EDA: `notebooks/01_eda_dynamic_pricing.ipynb`
+En el sector hospitality, muchas decisiones de pricing siguen dependiendo de procesos manuales, reglas estáticas o análisis poco escalables.
 
-## 🗂️ Gestión del Proyecto y Seguimiento del Flujo de Trabajo
+DyPriZa busca abordar retos como:
 
-La gestión del proyecto se organizó utilizando Trello para realizar el seguimiento de las fases, tareas e hitos a lo largo de todo el proceso de desarrollo.
+- Optimización de precios en función de demanda y estacionalidad
+- Detección de patrones de comportamiento del mercado
+- Reducción de vacantes
+- Mejora del RevPAR y ADR
+- Centralización y visualización de KPIs clave
+- Soporte a decisiones basadas en datos
 
-## ⚠️ Licencia
-Este proyecto es únicamente para fines de visualización. No se permite la reutilización ni distribución del código.
+
+##🎯 Objetivo del proyecto
+
+Desarrollar una solución reproducible capaz de recomendar precios óptimos para alojamientos turísticos mediante técnicas de análisis de datos y machine learning.
+
+
+##🧠 Metodología
+
+1. Ingesta y preparación de datos
+Integración de datos procedentes de Airbnb, AirDNA y datasets públicos
+Normalización de formatos y validación de calidad
+Limpieza de duplicados y tratamiento de valores atípicos
+
+2. Ingeniería de variables
+Creación de variables relacionadas con:
+- Temporalidad
+- Estacionalidad
+- Lead time
+- Segmentación geográfica
+- Comportamiento de demanda
+
+3. Modelado predictivo
+
+Evaluación de modelos de Machine Learning para predicción de precios:
+- Linear Regression
+- GridSearch
+- Comparativas de precisión y estabilidad
+
+4. Evaluación del rendimiento
+
+Métricas utilizadas:
+- MAE
+- RMSE
+- Within5%
+- Within10%
+- Distribución de residuales
+- Estabilidad temporal
+
+5. Visualización y reporting
+
+Desarrollo de dashboards ejecutivos en Tableau orientados a negocio y Revenue Management.
+
+
+##📊 Resultados principales
+#KPIs globales del modelo
+- MAE ≈ 2.3
+- RMSE ≈ 2.9
+- Within5% ≈ 95%
+- Within10% ≈ 99.17%
+
+#Insights detectados
+Linear Regression mostró mayor estabilidad y menor dispersión de error
+Barcelona presentó mayor volatilidad en temporada alta
+Madrid mostró mayor error en temporada media
+Junio y septiembre reflejaron mayor estabilidad predictiva
+
+
+
+##📈 Dashboard & Visualización
+
+El proyecto incluye dashboards desarrollados en Tableau para el análisis ejecutivo y seguimiento del rendimiento del modelo.
+
+#Visualizaciones implementadas
+- KPIs generales
+- Real vs Predicho
+- Dispersión Real vs Predicho
+- Distribución de residuales
+- Evolución temporal del error
+- Comparativas entre modelos
+- Análisis segmentado por ciudad y temporada
+
+#Capturas del dashboard
+KPIs generales y predicción
+<img width="1351" height="756" alt="image" src="https://github.com/user-attachments/assets/006bdc07-9968-47e7-a837-98a4aebd934e" />
+
