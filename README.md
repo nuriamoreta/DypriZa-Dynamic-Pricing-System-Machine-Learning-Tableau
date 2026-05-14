@@ -173,6 +173,7 @@ Anaconda
 ## 📁 Estructura del proyecto
 
 DyPriZa/
+
 │
 ├── notebooks/
 
