@@ -7,8 +7,7 @@ El proyecto nace como un MVP (Minimum Viable Product) enfocado en demostrar cóm
 
 La solución integra análisis exploratorio, modelado predictivo y dashboards ejecutivos en Tableau para transformar datos de mercado en insights accionables.
 
-
-##🧩 Business Problem
+## 🧩 Business Problem
 
 En el sector hospitality, muchas decisiones de pricing siguen dependiendo de procesos manuales, reglas estáticas o análisis poco escalables.
 
@@ -22,12 +21,12 @@ DyPriZa busca abordar retos como:
 - Soporte a decisiones basadas en datos
 
 
-##🎯 Objetivo del proyecto
+## 🎯 Objetivo del proyecto
 
 Desarrollar una solución reproducible capaz de recomendar precios óptimos para alojamientos turísticos mediante técnicas de análisis de datos y machine learning.
 
 
-##🧠 Metodología
+## 🧠 Metodología
 
 1. Ingesta y preparación de datos
 Integración de datos procedentes de Airbnb, AirDNA y datasets públicos
@@ -64,7 +63,7 @@ Métricas utilizadas:
 Desarrollo de dashboards ejecutivos en Tableau orientados a negocio y Revenue Management.
 
 
-##📊 Resultados principales
+## 📊 Resultados principales
 #KPIs globales del modelo
 - MAE ≈ 2.3
 - RMSE ≈ 2.9
@@ -79,7 +78,7 @@ Junio y septiembre reflejaron mayor estabilidad predictiva
 
 
 
-##📈 Dashboard & Visualización
+## 📈 Dashboard & Visualización
 
 El proyecto incluye dashboards desarrollados en Tableau para el análisis ejecutivo y seguimiento del rendimiento del modelo.
 
