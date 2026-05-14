@@ -42,14 +42,12 @@ Creación de variables relacionadas con:
 - Comportamiento de demanda
 
 3. Modelado predictivo
-
 Evaluación de modelos de Machine Learning para predicción de precios:
 - Linear Regression
 - GridSearch
 - Comparativas de precisión y estabilidad
 
 4. Evaluación del rendimiento
-
 Métricas utilizadas:
 - MAE
 - RMSE
@@ -59,7 +57,6 @@ Métricas utilizadas:
 - Estabilidad temporal
 
 5. Visualización y reporting
-
 Desarrollo de dashboards ejecutivos en Tableau orientados a negocio y Revenue Management.
 
 
