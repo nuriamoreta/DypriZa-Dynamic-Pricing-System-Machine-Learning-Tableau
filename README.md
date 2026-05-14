@@ -101,3 +101,8 @@ El proyecto incluye dashboards desarrollados en Tableau para el análisis ejecut
 KPIs generales y predicción
 <img width="1351" height="756" alt="image" src="https://github.com/user-attachments/assets/006bdc07-9968-47e7-a837-98a4aebd934e" />
 
+Evolución de errores y segmentación
+assets/02_Calculo_tipos_de_errores.png
+
+Comparativa entre modelos
+assets/03_Comparativas_tipos_de_modelos.png
