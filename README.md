@@ -102,7 +102,98 @@ KPIs generales y predicción
 <img width="1351" height="756" alt="image" src="https://github.com/user-attachments/assets/006bdc07-9968-47e7-a837-98a4aebd934e" />
 
 Evolución de errores y segmentación
-assets/02_Calculo_tipos_de_errores.png
+<img width="1348" height="748" alt="image" src="https://github.com/user-attachments/assets/e91c5402-f3dd-40b5-8ad1-df04a868b475" />
+
 
 Comparativa entre modelos
-assets/03_Comparativas_tipos_de_modelos.png
+
+<img width="1348" height="748" alt="image" src="https://github.com/user-attachments/assets/52454f42-543e-4e97-8d41-9ff59fc43cd5" />
+
+
+
+## 🛠️ Tecnologías utilizadas
+**Lenguajes y librerías**
+
+-Python
+-Pandas
+-NumPy
+-Scikit-learn
+-Matplotlib
+
+**Visualización**
+
+Tableau
+Entorno
+Jupyter Notebook
+Anaconda
+
+
+
+## 💼 Skills demostradas
+**Data Analytics**
+
+- Exploratory Data Analysis (EDA)
+- Data Cleaning
+- Feature Engineering
+- KPI Analysis
+- Business Intelligence
+
+**Machine Learning**
+
+- Model Evaluation
+- Regression Models
+- Error Analysis
+- Predictive Analytics
+
+**Revenue Management**
+
+- Dynamic Pricing
+- ADR / RevPAR Analysis
+- Occupancy Optimization
+- Demand Analysis
+
+**Data Visualization**
+
+- Executive Dashboards
+- Tableau Reporting
+- Business Storytelling
+
+
+
+## 🚀 Roadmap / Próximos pasos
+- Automatización de ingesta de datos
+- Integración de benchmarking competitivo
+- Desarrollo de forecast a 30 días
+- Implementación de elasticidad precio-demanda
+- API de recomendaciones
+- Simulación de escenarios y alertas operativas
+
+
+
+## 📁 Estructura del proyecto
+
+DyPriZa/
+│
+├── notebooks/
+├── src/
+├── data/
+├── dashboards/
+├── assets/
+└── README.md
+
+
+
+## 📂 Dataset
+
+La carpeta de datos no se comparte públicamente debido a restricciones de confidencialidad.
+
+El proyecto se ha desarrollado utilizando datasets públicos y datos reales del sector hospitality.
+
+
+
+
+## ⚠️ Licencia
+
+Proyecto desarrollado con fines educativos y de portfolio.
+
+No se permite la reutilización o distribución del código sin autorización.
