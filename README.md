@@ -114,11 +114,11 @@ Comparativa entre modelos
 ## 🛠️ Tecnologías utilizadas
 **Lenguajes y librerías**
 
--Python
--Pandas
--NumPy
--Scikit-learn
--Matplotlib
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
 
 **Visualización**
 
@@ -175,10 +175,15 @@ Anaconda
 DyPriZa/
 │
 ├── notebooks/
+
 ├── src/
+
 ├── data/
+
 ├── dashboards/
+
 ├── assets/
+
 └── README.md
 
 
