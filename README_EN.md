@@ -106,7 +106,6 @@ Error evolution and segmentation
 
 
 Model comparison
-
 <img width="1348" height="748" alt="image" src="https://github.com/user-attachments/assets/52454f42-543e-4e97-8d41-9ff59fc43cd5" />
 
 
