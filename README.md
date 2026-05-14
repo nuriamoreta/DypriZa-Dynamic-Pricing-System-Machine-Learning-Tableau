@@ -1,4 +1,4 @@
-🇪🇸 DyPriZa | Dynamic Pricing Intelligence for Hospitality
+# 🇪🇸 DyPriZa | Dynamic Pricing Intelligence for Hospitality
 ## 📌 Resumen ejecutivo
 
 DyPriZa es un proyecto de Dynamic Pricing aplicado al sector de alojamientos turísticos, orientado a optimizar estrategias de pricing mediante análisis de datos, machine learning y visualización ejecutiva.
